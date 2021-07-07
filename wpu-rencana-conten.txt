@@ -3,7 +3,11 @@ RENCANA KONTEN WPU
 - Javascript
   *ES6
   *Framework Javescript
+  ^ Veu
+  ^ React
 - Struktur data dasar
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
